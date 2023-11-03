@@ -1,4 +1,4 @@
 - Hello person on the internet, I’m @ImNovaNebula!
 - I enjoy playing video games and modding minecraft.
-- I’m currently learning how to code in Python.
+- I code in python and c# (with unity).
 - I also use scratch.mit.edu to code.
