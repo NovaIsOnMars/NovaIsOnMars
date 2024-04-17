@@ -1,4 +1,5 @@
-- Hello person on the internet, I’m @ImNovaNebula!
-- I enjoy playing video games and modding minecraft.
-- I code in python and c# (with unity).
-- I also use scratch.mit.edu to code.
+- Hello person on the internet, I’m @NovaIsOnMars!
+- I enjoy playing video games, making video games, and modding video games (specifically Minecraft).
+- I started out coding with scratch.mit.edu, but once I grew out of that, my abilities expanded.
+- Now, I code mostly in python and c# (with unity). I will soon learn HTML and CSS (which are NOT programming languages!!)
+- Most of my repositories are private, but will likely be made public to view and download when they are closer to completion.
