@@ -1,7 +1,14 @@
-<img src="https://komarev.com/ghpvc/?username=novaisonmars&abbreviated=true&style=flat-square&color=380d70" alt=""/>
-
-<h3 class="glitch">Greetings, great voyager of the internet, and welcome to my personal system of the GitHub galaxy!</h3>
-<h2>:space_invader: :comet:&nbsp; About Me:</h2>
+<h1 align="center">NovaIsOnMars</h1>
+<p align="center">
+<img src="https://github.com/NovaIsOnMars/NovaIsOnMars/blob/a2e7ae317ab5184fb52c48a0771602aa44e6eb92/desk.gif" alt="low-quality-gif-of-nova-typing" width="250"/>
+</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Games_Created-1-6c0bba?style=flat-square" alt="games-created-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=novaisonmars&abbreviated=true&style=flat-square&color=380d70" alt="profile-views-badge"/>
+  <img src="https://img.shields.io/badge/Privated_Repos-4-631c9c?style=flat-square" alt="-badge"/>
+</div>
+<h3>Greetings, great voyager of the internet, and welcome to my personal system of the GitHub galaxy!</h3>
+<h2>:space_invader:&nbsp; About Me:</h2>
 
 - :wave: I am @NovaIsOnMars, but you can feel free to call me Nova for short.
 - :video_game: I enjoy playing video games, making video games, and modding video games (specifically modding Minecraft).
@@ -23,6 +30,6 @@
 </div>
 <hr></hr>
 <div>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=novaisonmars&theme=transparent&border_radius=10&border_color=531778&title_color=720fab&text_color=51077d&icon_color=51077d" />&nbsp;
+  <img height=200 src="https://streak-stats.demolab.com?user=NovaIsOnMars&theme=shadow-purple&border_radius=10&card_width=450" alt="GitHub Streak" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=novaisonmars&layout=compact&langs_count=8&card_width=324&border_radius=10&border_color=531778&bg_color=00000000&title_color=720fab&text_color=b688d1"/>&nbsp;
 </div>
