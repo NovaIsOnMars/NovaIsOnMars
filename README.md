@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=novaisonmars&abbreviated=true&style=flat-square&color=380d70" alt="profile-views-badge"/>
   <img src="https://img.shields.io/badge/Privated_Repos-4-631c9c?style=flat-square" alt="-badge"/>
 </div>
-<h3>Greetings, great voyager of the internet, and welcome to my personal system of the GitHub galaxy!</h3>
+<h3>Greetings, great voyager of the internet! (hey, it looks like you're actually reading a document titled README. good for you!)</h3>
 <h2>:space_invader:&nbsp; About Me:</h2>
 
 - :wave: I am @NovaIsOnMars, but you can feel free to call me Nova for short.
