@@ -1,11 +1,11 @@
 <h1 align="center">NovaIsOnMars</h1>
 <p align="center">
-<img src="https://github.com/NovaIsOnMars/NovaIsOnMars/blob/a2e7ae317ab5184fb52c48a0771602aa44e6eb92/desk.gif" alt="low-quality-gif-of-nova-typing" width="250"/>
+<img src="https://github.com/NovaIsOnMars/NovaIsOnMars/blob/a2e7ae317ab5184fb52c48a0771602aa44e6eb92/desk.gif" alt="gif-of-nova-typing" width="250"/>
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/Games_Created-1-6c0bba?style=flat-square" alt="games-created-badge"/>
   <img src="https://komarev.com/ghpvc/?username=novaisonmars&abbreviated=true&style=flat-square&color=380d70" alt="profile-views-badge"/>
-  <img src="https://img.shields.io/badge/Privated_Repos-4-631c9c?style=flat-square" alt="-badge"/>
+  <img src="https://img.shields.io/badge/Privated_Repos-5-631c9c?style=flat-square" alt="-badge"/>
 </div>
 <h3>Greetings, great voyager of the internet! (hey, it looks like you're actually reading a document titled README. good for you!)</h3>
 <h2>:space_invader:&nbsp; About Me:</h2>
@@ -26,6 +26,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
@@ -40,7 +41,6 @@
 <h2>:brain:&nbsp; Apps, Engines, and Languages I plan to learn:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UnrealEngine" alt="UnrealEngine" width="40" height="40"/>&nbsp;
