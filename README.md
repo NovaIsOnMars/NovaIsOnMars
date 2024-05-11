@@ -1,6 +1,6 @@
 <h1 align="center">NovaIsOnMars</h1>
 <p align="center">
-<img src="https://github.com/NovaIsOnMars/NovaIsOnMars/blob/a2e7ae317ab5184fb52c48a0771602aa44e6eb92/desk.gif" alt="gif-of-nova-typing" width="250"/>
+<img src="desk.gif" alt="gif-of-nova-typing" width="250"/>
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/Games_Created-1-6c0bba?style=flat-square" alt="games-created-badge"/>
